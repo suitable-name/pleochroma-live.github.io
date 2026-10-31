@@ -1,1 +1,0 @@
-importScripts("./indicatrix-web-gpu.js");wasm_bindgen("./indicatrix-web-gpu_bg.wasm");
