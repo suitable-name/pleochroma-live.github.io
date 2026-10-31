@@ -1,0 +1,1 @@
+importScripts("./pleochroma-web-gpu.js");wasm_bindgen("./pleochroma-web-gpu_bg.wasm");

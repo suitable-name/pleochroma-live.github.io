@@ -1,0 +1,1 @@
+importScripts("./pleochroma-web-compute.js");wasm_bindgen("./pleochroma-web-compute_bg.wasm");
